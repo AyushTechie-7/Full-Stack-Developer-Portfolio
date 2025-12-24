@@ -20,7 +20,7 @@ Welcome to my personal portfolio website built using HTML, CSS, and JavaScript. 
 - 🧠 **Projects Showcase** with live demos and GitHub links
 - 📬 **Contact Form** powered by Formspree (with JS feedback)
 - 📱 Fully responsive and smooth scrolling navigation
-- 🔼 **Back to Top** floating button
+- 🔼 **Back to Top** floating button.
 
 ---
 
