@@ -1,5 +1,5 @@
-# Web Developer Portfolio
-# 🌐 Ayush Choudhar | Web Developer Portfolio
+# Full Stack Developer Portfolio
+# 🌐 Ayush Choudhar | Full stack Developer Portfolio
 
 Welcome to my personal portfolio website built using HTML, CSS, and JavaScript. This project showcases my skills, projects, contact details, and more — all wrapped in a modern, interactive, and animated layout.
 
