@@ -9,11 +9,10 @@ document.addEventListener('DOMContentLoaded', () => {
   // Typed.js initialization
   new Typed('.typewriter', {
     strings: [
-      "Web Developer",
-      "React Specialist",
-      "UI/UX Enthusiast",
-      "Problem Solver",
-      "Tech Innovator"
+        "Code. Design. Build.",
+  "Full Stack Developer",
+  "Crafting Digital Experiences",
+  "Turning Ideas into Code"
     ],
     typeSpeed: 50,
     backSpeed: 30,
