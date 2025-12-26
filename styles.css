@@ -38,7 +38,7 @@ body {
   color: var(--darker);
 }
 
-/* Scrollbar */
+/* Scrollbar  */
 ::-webkit-scrollbar {
   width: 10px;
 }
@@ -1002,4 +1002,5 @@ footer {
   .contact-social a {
     font-size: 2rem;
   }
+
 }
