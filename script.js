@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  // Initialize AOS animations
+
   AOS.init({
     duration: 800,
     easing: 'ease-in-out',
@@ -218,4 +218,5 @@ document.addEventListener('DOMContentLoaded', () => {
       submitBtn.disabled = false;
     }, 1000);
   });
+
 });
